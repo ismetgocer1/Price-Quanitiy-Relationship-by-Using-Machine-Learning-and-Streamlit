@@ -1,0 +1,9 @@
+1) Ana kod blokunu "Shift + Enter" ile calistir
+2) Alttaki tek satirlik kodu "Shift + Enter" ile calistir
+
+Kodda degisiklik yaptiginda; 
+1) Once "Kernel Interrupt" yap, calisan dosya dursun
+2) Yaptigin degisiklikleri kaydet 
+3) Ana kod blokunu
+4) Alttaki tek satirlik kodu calistir. 
+5) Bowserde calisan sayfayi refresh etmek de ise yarayabiliyor.
